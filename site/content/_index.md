@@ -10,7 +10,7 @@ blurb:
     digitali. Scopri Decap e preparati a sperimentare il futuro dello sviluppo
     web."
 intro:
-  heading: What we offer
+  heading: L'argomento demo è il caffè
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
