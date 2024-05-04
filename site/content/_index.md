@@ -1,16 +1,22 @@
 ---
 title: Benvenuti su Livedata CMS Decap
 subtitle: Hugo e Decap CMS
-image: img/oig4.zc0rlfj2pga_4.jpeg
+image: img/home-jumbotron.jpg
 blurb:
   heading: Perchè Decap?
-  text: " Sfruttando le ultime tendenze nell'ambito del cloud computing e della
-    distribuzione di contenuti, Decap si distingue come la scelta preferita per
-    coloro che cercano una soluzione all'avanguardia per i loro progetti
-    digitali. Scopri Decap e preparati a sperimentare il futuro dello sviluppo
-    web."
+  text: Ciao! Benvenuto su questo sito web, generato utilizzando Hugo e
+    implementato con Decap CMS (decapcms.org). Hugo è un generatore di siti
+    statici rapido e flessibile, mentre Decap CMS offre un'interfaccia intuitiva
+    e funzionalità avanzate per la gestione dei contenuti. Questo sito è
+    pubblicato su Netlify, una rinomata piattaforma di hosting e deployment che
+    offre prestazioni elevate, scalabilità e un'ampia gamma di funzionalità per
+    ottimizzare l'esperienza degli utenti. Che tu stia cercando informazioni,
+    esplorando idee o semplicemente navigando, sappi che questo sito offre una
+    navigazione fluida e un'esperienza ottimale grazie alla combinazione di
+    Hugo, Decap CMS e Netlify. Se hai domande o feedback, non esitare a
+    contattarci. Grazie per la visita!
 intro:
-  heading: L'argomento demo è il caffè
+  heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
