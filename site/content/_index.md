@@ -40,5 +40,3 @@ values:
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18c10a7c-6c91-4c35-9e10-7872ce485ebf/deploy-status)](https://app.netlify.com/sites/livedata-decap/deploys)
