@@ -47,6 +47,8 @@ The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano
 
 All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18c10a7c-6c91-4c35-9e10-7872ce485ebf/deploy-status)](https://app.netlify.com/sites/livedata-decap/deploys)
+
 ```
 <svg width="16px" height="16px" class="db">
   <use xlink:href="#SVG-ID"></use>
