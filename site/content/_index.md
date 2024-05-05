@@ -36,8 +36,6 @@ products:
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18c10a7c-6c91-4c35-9e10-7872ce485ebf/deploy-status)](https://app.netlify.com/sites/livedata-decap/deploys)
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
