@@ -15,16 +15,16 @@ intro:
     funzionalità per ottimizzare l'esperienza degli utenti. "
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: Decap CMS è un Content Management System (CMS) open-source che si integra
+      perfettamente con i moderni flussi di lavoro di sviluppo web, in
+      particolare quelli basati su Jamstack. Originariamente conosciuto come
+      Netlify CMS, Decap CMS è stato progettato per fornire una soluzione
+      flessibile e innovativa per la gestione dei contenuti statici.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Hugo è uno dei generatori di siti statici (Static Site Generators, SSG)
+      più veloci e flessibili sul mercato. Sviluppato in linguaggio Go, Hugo
+      permette di creare siti web ad alte prestazioni con tempi di build ridotti
+      al minimo.
 values:
   heading: " Hugo, Decap CMS e Netlify"
   text: Che tu stia cercando informazioni, esplorando idee o semplicemente
