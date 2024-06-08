@@ -4,23 +4,15 @@ subtitle: Hugo e Decap CMS
 image: img/home-jumbotron.jpg
 blurb:
   heading: Perchè Decap?
-  text: Ciao! Benvenuto su questo sito web, generato utilizzando Hugo e
+  text: "Ciao! Benvenuto su questo sito web, generato utilizzando Hugo e
     implementato con Decap CMS (decapcms.org). Hugo è un generatore di siti
     statici rapido e flessibile, mentre Decap CMS offre un'interfaccia intuitiva
-    e funzionalità avanzate per la gestione dei contenuti. Questo sito è
-    pubblicato su Netlify, una rinomata piattaforma di hosting e deployment che
-    offre prestazioni elevate, scalabilità e un'ampia gamma di funzionalità per
-    ottimizzare l'esperienza degli utenti. Che tu stia cercando informazioni,
-    esplorando idee o semplicemente navigando, sappi che questo sito offre una
-    navigazione fluida e un'esperienza ottimale grazie alla combinazione di
-    Hugo, Decap CMS e Netlify. Se hai domande o feedback, non esitare a
-    contattarci. Grazie per la visita!
+    e funzionalità avanzate per la gestione dei contenuti. "
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Perchè Netlify?
+  text: "Questo sito è pubblicato su Netlify, una rinomata piattaforma di hosting
+    e deployment che offre prestazioni elevate, scalabilità e un'ampia gamma di
+    funzionalità per ottimizzare l'esperienza degli utenti. "
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -34,9 +26,10 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: " Hugo, Decap CMS e Netlify"
+  text: Che tu stia cercando informazioni, esplorando idee o semplicemente
+    navigando, sappi che questo sito offre una navigazione fluida e
+    un'esperienza ottimale grazie alla combinazione di Hugo, Decap CMS e
+    Netlify. Se hai domande o feedback, non esitare a contattarci. Grazie per la
+    visita!
 ---
